@@ -35,3 +35,4 @@ docker container rm teracoder2.0
 docker rmi teracoder2.0
 ```
 以上のコマンドを実行することでWebアプロケーションを削除することができます
+# TeraCoder2.0
