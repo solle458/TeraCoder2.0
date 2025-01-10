@@ -24,7 +24,7 @@ Docker    https://www.docker.com/get-started/
 ```
 cd TeraCoder2.0Example
 docker build -t teracoder2.0:latest .
-docker container run -it -d -p 9000:9000 --name teracoder2.0 teracoder2.0$
+docker container run -it -d -p 9000:9000 --name teracoder2.0 teracoder2.0
 ```
 以上のコマンドを実行するとlocalhost:9000にWebアプリケーションが立ち上がります
 
