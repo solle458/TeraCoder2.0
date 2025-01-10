@@ -22,7 +22,7 @@ Docker    https://www.docker.com/get-started/
 このプロジェクトをクローンしDocker Desktopを起動してください
 ### 開始
 ```
-cd TeraCoder2.0Example
+cd TeraCoder2.0Example/typescript
 docker build -t teracoder2.0:latest .
 docker container run -it -d -p 9000:9000 --name teracoder2.0 teracoder2.0
 ```
