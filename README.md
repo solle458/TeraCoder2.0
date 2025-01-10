@@ -3,18 +3,20 @@ Teracoderのジャッジシステムを新しくするテストプロジェク�
 
 ## Requirement
 ### フロントエンド　
-Typescript ^5.7.2
+Typescript        ^5.7.2
 
 ### バックエンド
-Go go1.23.4
+Go                go1.23.4
 
 ### DB
-MySQL
+MySQL             Ver 9.1.0 for macos14 on arm64
 
 ## Installation
 node.js   https://nodejs.org/en/
 
 go        https://go.dev/doc/install
+
+mysql     https://dev.mysql.com/doc/refman/8.0/ja/macos-installation.html
 
 Docker    https://www.docker.com/get-started/
 
