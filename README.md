@@ -6,7 +6,7 @@ Teracoderのジャッジシステムを新しくするテストプロジェク�
 Typescript ^5.7.2
 
 ### バックエンド
-Go 
+Go go1.23.4
 
 ### DB
 MySQL
